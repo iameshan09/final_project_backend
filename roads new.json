@@ -1,0 +1,374 @@
+[
+    {
+        "road_id":2,
+        "road":"Delkanda junction - Gamsabha junction",
+        "time_frame1":{
+                  "time_frame":"6:00 - 6:15",
+                  "duration_in_traffic": 4
+              },
+        "time_frame2":{
+                "time_frame":"6:15 - 6:30",
+                "duration_in_traffic": 4.5
+        },
+        "time_frame3":{
+            "time_frame":"6:30 - 6:45",
+            "duration_in_traffic": 5
+        },
+      "time_frame4":{
+        "time_frame":"6:45: - 7:00",
+        "duration_in_traffic": 5.8
+      },
+      "time_frame5":{
+        "time_frame":"7:00: - 7:15",
+        "duration_in_traffic": 6.1
+      },
+      "time_frame6":{
+        "time_frame":"7:15: - 7:30",
+        "duration_in_traffic": 6.6
+      },
+      "time_frame7":{
+        "time_frame":"7:30: - 7:45",
+        "duration_in_traffic": 6.5
+      },
+      "time_frame8":{
+        "time_frame":"7:45: - 8:00",
+        "duration_in_traffic": 7.2
+      },
+      "time_frame9":{
+        "time_frame":"8:00: - 8:15",
+        "duration_in_traffic": 7.6
+      },
+      "time_frame10":{
+        "time_frame":"8:15: - 8:30",
+        "duration_in_traffic": 7.67
+      },
+      "time_frame11":{
+        "time_frame":"8:30: - 8:45",
+        "duration_in_traffic": 7.9
+      },
+      "time_frame12":{
+        "time_frame":"8:45: - 9:00",
+        "duration_in_traffic": 5.0
+      },
+      "day":1
+    },
+    {
+        "road_id":2,
+        "road":"Delkanda junction - Gamsabha junction",
+        "time_frame1":{
+                  "time_frame":"6:00 - 6:15",
+                  "duration_in_traffic": 4.1
+              },
+        "time_frame2":{
+                "time_frame":"6:15 - 6:30",
+                "duration_in_traffic": 4.4
+        },
+        "time_frame3":{
+            "time_frame":"6:30 - 6:45",
+            "duration_in_traffic": 5.3
+        },
+      "time_frame4":{
+        "time_frame":"6:45: - 7:00",
+        "duration_in_traffic": 5.5
+      },
+      "time_frame5":{
+        "time_frame":"7:00: - 7:15",
+        "duration_in_traffic": 5.9
+      },
+      "time_frame6":{
+        "time_frame":"7:15: - 7:30",
+        "duration_in_traffic": 6.1
+      },
+      "time_frame7":{
+        "time_frame":"7:30: - 7:45",
+        "duration_in_traffic": 6.4
+      },
+      "time_frame8":{
+        "time_frame":"7:45: - 8:00",
+        "duration_in_traffic": 6.7
+      },
+      "time_frame9":{
+        "time_frame":"8:00: - 8:15",
+        "duration_in_traffic": 7.3
+      },
+      "time_frame10":{
+        "time_frame":"8:15: - 8:30",
+        "duration_in_traffic": 7.8
+      },
+      "time_frame11":{
+        "time_frame":"8:30: - 8:45",
+        "duration_in_traffic":8.1
+      },
+      "time_frame12":{
+        "time_frame":"8:45: - 9:00",
+        "duration_in_traffic": 6
+      },
+      "day":2
+    },
+    {
+        "road_id":2,
+        "road":"Delkanda junction - Gamsabha junction",
+        "time_frame1":{
+                  "time_frame":"6:00 - 6:15",
+                  "duration_in_traffic": 6
+              },
+        "time_frame2":{
+                "time_frame":"6:15 - 6:30",
+                "duration_in_traffic": 6.5
+        },
+        "time_frame3":{
+            "time_frame":"6:30 - 6:45",
+            "duration_in_traffic": 6.9
+        },
+      "time_frame4":{
+        "time_frame":"6:45: - 7:00",
+        "duration_in_traffic": 7.1
+      },
+      "time_frame5":{
+        "time_frame":"7:00: - 7:15",
+        "duration_in_traffic": 6.8
+      },
+      "time_frame6":{
+        "time_frame":"7:15: - 7:30",
+        "duration_in_traffic": 6.3
+      },
+      "time_frame7":{
+        "time_frame":"7:30: - 7:45",
+        "duration_in_traffic": 6.1
+      },
+      "time_frame8":{
+        "time_frame":"7:45: - 8:00",
+        "duration_in_traffic": 5.7
+      },
+      "time_frame9":{
+        "time_frame":"8:00: - 8:15",
+        "duration_in_traffic": 5.5
+      },
+      "time_frame10":{
+        "time_frame":"8:15: - 8:30",
+        "duration_in_traffic": 5.1
+      },
+      "time_frame11":{
+        "time_frame":"8:30: - 8:45",
+        "duration_in_traffic":4.8
+      },
+      "time_frame12":{
+        "time_frame":"8:45: - 9:00",
+        "duration_in_traffic": 4.5
+      },
+      "day":3
+    },
+    {
+        "road_id":2,
+        "road":"Delkanda junction - Gamsabha junction",
+        "time_frame1":{
+                  "time_frame":"6:00 - 6:15",
+                  "duration_in_traffic": 5.3
+              },
+        "time_frame2":{
+                "time_frame":"6:15 - 6:30",
+                "duration_in_traffic": 5.01
+        },
+        "time_frame3":{
+            "time_frame":"6:30 - 6:45",
+            "duration_in_traffic": 4.87
+        },
+      "time_frame4":{
+        "time_frame":"6:45: - 7:00",
+        "duration_in_traffic": 4.75
+      },
+      "time_frame5":{
+        "time_frame":"7:00: - 7:15",
+        "duration_in_traffic": 6.5
+      },
+      "time_frame6":{
+        "time_frame":"7:15: - 7:30",
+        "duration_in_traffic":7.1
+      },
+      "time_frame7":{
+        "time_frame":"7:30: - 7:45",
+        "duration_in_traffic": 7.7
+      },
+      "time_frame8":{
+        "time_frame":"7:45: - 8:00",
+        "duration_in_traffic": 7.4
+      },
+      "time_frame9":{
+        "time_frame":"8:00: - 8:15",
+        "duration_in_traffic": 7.85
+      },
+      "time_frame10":{
+        "time_frame":"8:15: - 8:30",
+        "duration_in_traffic": 7
+      },
+      "time_frame11":{
+        "time_frame":"8:30: - 8:45",
+        "duration_in_traffic": 6
+      },
+      "time_frame12":{
+        "time_frame":"8:45: - 9:00",
+        "duration_in_traffic": 5
+      },
+      "day":4
+    },
+    {
+        "road_id":2,
+        "road":"Delkanda junction - Gamsabha junction",
+        "time_frame1":{
+                  "time_frame":"6:00 - 6:15",
+                  "duration_in_traffic": 5.7
+              },
+        "time_frame2":{
+                "time_frame":"6:15 - 6:30",
+                "duration_in_traffic": 5.5
+        },
+        "time_frame3":{
+            "time_frame":"6:30 - 6:45",
+            "duration_in_traffic": 5.6
+        },
+      "time_frame4":{
+        "time_frame":"6:45: - 7:00",
+        "duration_in_traffic": 6.3
+      },
+      "time_frame5":{
+        "time_frame":"7:00: - 7:15",
+        "duration_in_traffic": 6.8
+      },
+      "time_frame6":{
+        "time_frame":"7:15: - 7:30",
+        "duration_in_traffic": 7.5
+      },
+      "time_frame7":{
+        "time_frame":"7:30: - 7:45",
+        "duration_in_traffic": 7.5
+      },
+      "time_frame8":{
+        "time_frame":"7:45: - 8:00",
+        "duration_in_traffic": 7.67
+      },
+      "time_frame9":{
+        "time_frame":"8:00: - 8:15",
+        "duration_in_traffic": 8.1
+      },
+      "time_frame10":{
+        "time_frame":"8:15: - 8:30",
+        "duration_in_traffic": 8.7
+      },
+      "time_frame11":{
+        "time_frame":"8:30: - 8:45",
+        "duration_in_traffic": 8.85
+      },
+      "time_frame12":{
+        "time_frame":"8:45: - 9:00",
+        "duration_in_traffic": 9.1
+      },
+      "day":5
+    },
+    {
+        "road_id":2,
+        "road":"Delkanda junction - Gamsabha junction",
+        "time_frame1":{
+                  "time_frame":"6:00 - 6:15",
+                  "duration_in_traffic": 5
+              },
+        "time_frame2":{
+                "time_frame":"6:15 - 6:30",
+                "duration_in_traffic": 5.4
+        },
+        "time_frame3":{
+            "time_frame":"6:30 - 6:45",
+            "duration_in_traffic": 6.3
+        },
+      "time_frame4":{
+        "time_frame":"6:45: - 7:00",
+        "duration_in_traffic":6.5
+      },
+      "time_frame5":{
+        "time_frame":"7:00: - 7:15",
+        "duration_in_traffic": 6.95
+      },
+      "time_frame6":{
+        "time_frame":"7:15: - 7:30",
+        "duration_in_traffic": 6.99
+      },
+      "time_frame7":{
+        "time_frame":"7:30: - 7:45",
+        "duration_in_traffic": 7.4
+      },
+      "time_frame8":{
+        "time_frame":"7:45: - 8:00",
+        "duration_in_traffic": 7.8
+      },
+      "time_frame9":{
+        "time_frame":"8:00: - 8:15",
+        "duration_in_traffic": 8.2
+      },
+      "time_frame10":{
+        "time_frame":"8:15: - 8:30",
+        "duration_in_traffic": 7.5
+      },
+      "time_frame11":{
+        "time_frame":"8:30: - 8:45",
+        "duration_in_traffic": 5
+      },
+      "time_frame12":{
+        "time_frame":"8:45: - 9:00",
+        "duration_in_traffic": 4
+      },
+      "day":6
+    },
+    {
+        "road_id":2,
+        "road":"236 High level - 100-88 High level",
+        "time_frame1":{
+                  "time_frame":"6:00 - 6:15",
+                  "duration_in_traffic":0.2
+              },
+        "time_frame2":{
+                "time_frame":"6:15 - 6:30",
+                "duration_in_traffic": 0.6
+        },
+        "time_frame3":{
+            "time_frame":"6:30 - 6:45",
+            "duration_in_traffic": 0.6
+        },
+      "time_frame4":{
+        "time_frame":"6:45: - 7:00",
+        "duration_in_traffic":1.2
+      },
+      "time_frame5":{
+        "time_frame":"7:00: - 7:15",
+        "duration_in_traffic": 4.2
+      },
+      "time_frame6":{
+        "time_frame":"7:15: - 7:30",
+        "duration_in_traffic": 3.8
+      },
+      "time_frame7":{
+        "time_frame":"7:30: - 7:45",
+        "duration_in_traffic": 3.2
+      },
+      "time_frame8":{
+        "time_frame":"7:45: - 8:00",
+        "duration_in_traffic":1
+      },
+      "time_frame9":{
+        "time_frame":"8:00: - 8:15",
+        "duration_in_traffic": 0.9
+      },
+      "time_frame10":{
+        "time_frame":"8:15: - 8:30",
+        "duration_in_traffic": 0.87
+      },
+      "time_frame11":{
+        "time_frame":"8:30: - 8:45",
+        "duration_in_traffic": 0.5
+      },
+      "time_frame12":{
+        "time_frame":"8:45: - 9:00",
+        "duration_in_traffic": 3
+      },
+      "day":0
+    }
+
+]
