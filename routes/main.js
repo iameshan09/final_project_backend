@@ -241,11 +241,11 @@ function sortRoadsArray(results) {
 router.get("/getDay", async (req, res) => {
   try {
     // RETRIVE ALL Duty points
-    const cd = new Date();
-    const day = cd.getDay();
+    const dt = new Date();
+    let dy = dt.getDay();
 
     // SEND RESPONSE TO CLIENT
-    res.status(200).send(Number(day));
+    res.status(200).send({ day: dy });
   } catch (ex) {
     // IF CATCH ANY ERROR DURING THE PROCESS
     return res.status(500).send("Error", ex.message);
