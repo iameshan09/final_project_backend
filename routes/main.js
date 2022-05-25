@@ -155,6 +155,7 @@ function createRoadItemsArray(results) {
 }
 
 async function createDataArray(results) {
+  //timeframes array
   let dataArray = [];
   let dit1 = 0;
   let dit2 = 0;
