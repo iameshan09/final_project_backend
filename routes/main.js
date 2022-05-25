@@ -241,7 +241,7 @@ function sortRoadsArray(results) {
 router.get("/getDay", async (req, res) => {
   try {
     // RETRIVE ALL Duty points
-    const cd = await new Date();
+    const cd = new Date();
     const day = cd.getDay();
 
     // SEND RESPONSE TO CLIENT
