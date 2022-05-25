@@ -245,7 +245,7 @@ router.get("/getDay", async (req, res) => {
     const day = cd.getDay();
 
     // SEND RESPONSE TO CLIENT
-    res.status(200).send("fuck");
+    res.status(200).send(Number(day));
   } catch (ex) {
     // IF CATCH ANY ERROR DURING THE PROCESS
     return res.status(500).send("Error", ex.message);
