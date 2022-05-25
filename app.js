@@ -3,6 +3,7 @@ const mongoose = require("mongoose");
 const cors = require("cors");
 require("dotenv/config");
 const MainRouter = require("./routes/main");
+let port = process.env.PORT || 4000;
 
 // CREATE EXPRESS SERVER
 const app = express();
@@ -23,6 +24,6 @@ mongoose
   .catch((err) => console.log("Getting error with: ", err));
 
 // DEFINE PORT
-app.listen(4000, () => {
-  console.log("sever running on port 4000");
+app.listen(port, () => {
+  console.log(`sever running on port ${port}`);
 });
