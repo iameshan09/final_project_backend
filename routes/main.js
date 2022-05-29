@@ -252,18 +252,20 @@ router.get("/getDay", async (req, res) => {
   }
 });
 
+function delay(duration) {
+  return new Promise((resolve) => setTimeout(resolve, duration));
+}
+
 router.get("/getSuggestions", async (req, res) => {
   try {
     res.setTimeout(0);
-    // RETRIVE ALL Duty points
     const suggestion =
       "Clear Highlevel road direct to the Colombo for 10 minutes";
 
+    await delay(2000);
+
     // SEND RESPONSE TO CLIENT
-    setInterval(function () {
-      res.status(200).send(suggestion);
-    }, 2000);
-    //res.status(200).send(suggestion);
+    res.status(200).send(suggestion);
   } catch (ex) {
     // IF CATCH ANY ERROR DURING THE PROCESS
     return res.status(500).send("Error", ex.message);
