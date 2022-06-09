@@ -1,0 +1,6 @@
+https://trafficbuddybackend.herokuapp.com/
+https://git.heroku.com/trafficbuddybackend.git
+
+git 
+
+git push heroku HEAD:master

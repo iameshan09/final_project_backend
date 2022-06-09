@@ -1,0 +1,28 @@
+[
+    {
+        "dutypoint":"Test Duty Point 1",
+        "latitude":6.878318, 
+        "longitude":79.876432,
+        "station":"Kirulapone"
+    },
+    {
+        "dutypoint":"Test Duty Point 2",
+        "latitude":6.877426, 
+        "longitude": 79.879532,
+        "station":"Kirulapone"
+    },
+    {
+        "dutypoint":"Test Duty Point 3",
+        "latitude":6.878539,  
+        "longitude": 79.872735,
+        "station":"Kirulapone"
+    },
+    {
+        "dutypoint":"Test Duty Point 4",
+        "latitude":6.911920,   
+        "longitude": 79.857971,
+        "station":"Kurunduwatta"
+    }
+
+
+]
